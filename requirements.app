@@ -1,0 +1,5 @@
+# Smart Home Application Requirements
+# Core Flask Framework
+Flask==2.3.3
+Werkzeug==2.3.7
+Jinja2==3.1.2
